@@ -186,14 +186,3 @@ Nigeria
 13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
-This privacy policy was created using Termly’s Privacy Policy Generator.
-Custom Branding
-Hide “Powered by Termly” logo
-Customize Policy Style
-Theme
-
-Sharp (Default)
-Select "Create New Theme" to edit your policy style.
-APPLY THEME
-
-To create a custom theme, please upgrade. Pro+ plans start as low as $15/month. View Plans
